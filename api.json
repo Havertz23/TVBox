@@ -3,7 +3,7 @@
 "sites":
 	[{"key":"三六零弹幕","name":"弹幕｜三六零","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 	{"key":"荐片弹幕","name":"弹幕｜荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-	{"key":"玩偶弹幕","name":"弹幕｜玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"./DM/玩偶哥哥.json","danmu":true,"token":"http://127.0.0.1:9978/file/TVBox/token.txt"}}
+	{"key":"玩偶弹幕","name":"弹幕｜玩偶","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"filter":"./DM/玩偶哥哥.json","danmu":true,"token":"token.txt"}}
 	],
 "flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
